@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+title: Stupid Things
 ---
 
 ## A New Post
